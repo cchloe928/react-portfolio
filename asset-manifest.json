@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.f5806723.css",
+    "main.js": "/react-portfolio/static/js/main.72441285.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/chloe-about.jpg": "/react-portfolio/static/media/chloe-about.10e2c3586c3fcb61ef8d.jpg",
+    "static/media/chloe-home.jpeg": "/react-portfolio/static/media/chloe-home.e787f4946438bfa92f2f.jpeg",
+    "static/media/horiseon-challenge1.png": "/react-portfolio/static/media/horiseon-challenge1.6fbad7058f42c1fb76dc.png",
+    "static/media/search.jpg": "/react-portfolio/static/media/search.c0c802f333a8e815286d.jpg",
+    "static/media/github.jpg": "/react-portfolio/static/media/github.d1de55aa1e1f85db77bc.jpg",
+    "static/media/coding.jpg": "/react-portfolio/static/media/coding.7eae49954b070790a8eb.jpg",
+    "static/media/comingsoon2.png": "/react-portfolio/static/media/comingsoon2.d4f7b537f22a88218d4e.png",
+    "static/media/cute-cat.jpg": "/react-portfolio/static/media/cute-cat.00e652a89adcb8629918.jpg",
+    "static/media/email.jpg": "/react-portfolio/static/media/email.43afd25e7654150a4d42.jpg",
+    "static/media/png": "/react-portfolio/static/media/580b57fcd9996e24bc43c521.81e2e2c95e0e6728b4d7.png",
+    "static/media/password_generator-challenge3.png": "/react-portfolio/static/media/password_generator-challenge3.aa25cbf89939def02f6b.png",
+    "static/media/logo.svg": "/react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-portfolio/index.html",
+    "main.f5806723.css.map": "/react-portfolio/static/css/main.f5806723.css.map",
+    "main.72441285.js.map": "/react-portfolio/static/js/main.72441285.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5806723.css",
+    "static/js/main.72441285.js"
+  ]
+}
